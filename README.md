@@ -41,19 +41,10 @@ I'm Gary, a solutions architect at [New Relic](https://newrelic.com) 👨‍💻
 <br/>  
 
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1139893884&cover_image=true&theme=default" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1139893884&cover_image=true&theme=novatorem" /></div>  
 
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=gspncr&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
