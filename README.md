@@ -40,7 +40,7 @@ I'm Gary, a solutions architect at [New Relic](https://newrelic.com) 👨‍💻
 
 <br/>  
 
-
+## Listening on Spotify to 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1139893884&cover_image=true&theme=novatorem" /></div>  
 
 <br/>  
